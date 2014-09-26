@@ -1,0 +1,6 @@
+C:\Users\payam\Documents\GitHub\TextProcessing\Yesware\Yesware\bin\Debug\Yesware.exe.config
+C:\Users\payam\Documents\GitHub\TextProcessing\Yesware\Yesware\bin\Debug\Yesware.exe
+C:\Users\payam\Documents\GitHub\TextProcessing\Yesware\Yesware\bin\Debug\Yesware.pdb
+C:\Users\payam\Documents\GitHub\TextProcessing\Yesware\Yesware\obj\Debug\Yesware.csprojResolveAssemblyReference.cache
+C:\Users\payam\Documents\GitHub\TextProcessing\Yesware\Yesware\obj\Debug\Yesware.exe
+C:\Users\payam\Documents\GitHub\TextProcessing\Yesware\Yesware\obj\Debug\Yesware.pdb
